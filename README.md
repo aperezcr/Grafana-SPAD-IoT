@@ -55,7 +55,7 @@ Una vez configurado el conector, podra hacer consultas CQL con editor de query o
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/zGZK6wFf/2.png)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/c1wMB43Y/Captura-de-pantalla-2024-02-22-105709.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/sD2xDT3X/3.png)
 
 
 ## Grafana como herramienta de visualizacion en SPAD-IoT
