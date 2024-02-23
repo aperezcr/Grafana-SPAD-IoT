@@ -47,7 +47,7 @@ Una vez instalado CassandraDB en la computadora, es necesario instalar el conect
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/hvFHTdg5/Captura-de-pantalla-2024-02-23-132952.png)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/cJqrbDs9/Captura-de-pantalla-2024-02-23-131130.png](https://i.postimg.cc/hvFHTdg5/Captura-de-pantalla-2024-02-23-132952.png)https://i.postimg.cc/hvFHTdg5/Captura-de-pantalla-2024-02-23-132952.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/J4RXM7BN/Captura-de-pantalla-2024-02-23-133342.png)
 
 
 
