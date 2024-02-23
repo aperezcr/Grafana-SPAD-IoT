@@ -69,6 +69,13 @@ Docker compose Grafana.
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/Vv7g8J4N/Captura-de-pantalla-2024-02-23-141018.png)
 
+Se deben realizar tres configuraciones para el correcto funcionamiento de la herramienta:
+
+1.Se debe configurar el conector de Cassandra en el DataSource de Grafana.
+
+`Host: 54d91226-1193-4ef8-963e-cd02b29c5874-useast1.db.astra.datastax.com:29042`
+`User: fxTAPZquKNbYycaKZhDcdxTg `
+`Password:4zpbTvjZ.6.XK+g_20wk65hItrFcDBZG3zQIN.lZU5R85UZr3JIy_cPfXkq9uc7k.Qz0Gsr_W21RdLKpwsZyPZ2P2.HI,7Eu,ZnBT75WWyvNi_wiL.T6jXdOEy-B.6SU`
 
 
 
