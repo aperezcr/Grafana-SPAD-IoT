@@ -79,7 +79,7 @@ Se deben realizar tres configuraciones para el correcto funcionamiento de la her
 
 `Password:4zpbTvjZ.6.XK+g_20wk65hItrFcDBZG3zQIN.lZU5R85UZr3JIy_cPfXkq9uc7k.Qz0Gsr_W21RdLKpwsZyPZ2P2.HI,7Eu,ZnBT75WWyvNi_wiL.T6jXdOEy-B.6SU`
 
-### 2. La segunda configuracion permite que la aplicacion del nginx de SPAD, para ello se debe ingresar al docker y en la ruta /etc/grafana/ ingresar al archivo grafana.ini, dejar las siguientes lineas de código igual a la imagen:
+### 2. La segunda configuracion permite que la aplicacion sea visible desde el nginx de SPAD, para ello se debe ingresar al docker y en la ruta /etc/grafana/ ingresar al archivo grafana.ini, dejar las siguientes lineas de código igual a la imagen:
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/wB7n1dnM/Captura-de-pantalla-2024-02-23-142335.png)
 
