@@ -63,7 +63,11 @@ Se usa la versión 9.5.14 de grafana ya que la ultima versión aun genera alguno
 
 Conector de [Cassandra 2.3.0](https://github.com/HadesArchitect/GrafanaCassandraDatasource/releases/download/2.3.0/cassandra-datasource-2.3.0.zip)
 
+Para el despliegue de la herramienta se usan dos volumenes, uno para pasarle la conexion con cassandra y la otra para establecer la conexion segura con la base de datos.
 
+Docker compose Grafana.
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/Vv7g8J4N/Captura-de-pantalla-2024-02-23-141018.png)
 
 
 
