@@ -7,9 +7,9 @@ Grafana permite la visualización de datos métricos y es un software de versió
 
 Lo primero que debemos instalar para familiarizarnos con el entorno de Grafana es la aplicación Grafana Lab con la edición Enterprise, para los usuarios de linux, seguir los siguientes pasos:
 
-`$ sudo apt-get install -y adduser libfontconfig1 musl`
+` sudo apt-get install -y adduser libfontconfig1 musl`
 
-`$ wget https://dl.grafana.com/enterprise/release/grafana-enterprise_10.3.3_amd64.deb`
+` wget https://dl.grafana.com/enterprise/release/grafana-enterprise_10.3.3_amd64.deb`
 
-`$ sudo dpkg -i grafana-enterprise_10.3.3_amd64.deb`
+` sudo dpkg -i grafana-enterprise_10.3.3_amd64.deb`
 
