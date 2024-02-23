@@ -49,7 +49,11 @@ Una vez instalado CassandraDB en la computadora, es necesario instalar el conect
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/J4RXM7BN/Captura-de-pantalla-2024-02-23-133342.png)
 
+Una vez configurado el conector, podra hacer consultas CQL con editor de query o usar la intefaz de Grafana para visualizar los datos de la DB Cassandra:
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/cH9fbVFq/1.png)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/zGZK6wFf/2.png)
 
 
 
