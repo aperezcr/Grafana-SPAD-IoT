@@ -23,9 +23,30 @@ Si la instalacion fue correcta vera la siguiente ventana:
 
 El usuario y contraseña por defecto son:
 
-` user:admin`
+` username:admin`
 
 ` password:admin`
+
+Una vez logueado podra ver el home de Grafana.
+
+El siguiente paso es instalar la base de datos usada como prueba Cassandra DB, para esto se recomienda usar la interfaz de Datastax.
+
+` sudo apt install apt-transport-https wget gnupg`
+
+` sudo apt install openjdk-8-jdk`
+
+` wget -q -O - https://www.apache.org/dist/cassandra/KEYS | sudo apt-key add -`
+
+`sudo sh -c 'echo "deb http://www.apache.org/dist/cassandra/debian 311x main" > /etc/apt/sources.list.d/cassandra.list'`
+
+`sudo apt-get update`
+
+`sudo apt install cassandra`
+
+
+
+
+
 
 
 
