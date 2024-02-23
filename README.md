@@ -57,6 +57,13 @@ Una vez configurado el conector, podra hacer consultas CQL con editor de query o
 
 
 
+## Grafana como herramienta de visualizacion en SPAD-IoT
+
+Se usa la versión 9.5.14 de grafana ya que la ultima versión aun genera algunos errores con el conector de cassandra, la versión usada del conector es la 2.3.0 
+
+Conector de [Cassandra 2.3.0](https://github.com/HadesArchitect/GrafanaCassandraDatasource/releases/download/2.3.0/cassandra-datasource-2.3.0.zip)
+
+
 
 
 
