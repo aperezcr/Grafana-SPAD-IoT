@@ -4,14 +4,14 @@ En este repositorio se da una explicacion de la conexion entre la herramienta de
 ## Index
 
 1. [Descripción](#Descripción)
-2. [Descripción](#GrafanaEntornoLocaL)
+2. [Grafana en el entorno local, datos de prueba.](#local)
 3. [Descripcin](#Descripcin)
-
-## Grafana en el entorno local, datos de prueba.
 
 ## Descripcion
 
 Grafana permite la visualización de datos métricos y es un software de versión libre con licencia de Apache 2.0. Con esta herramienta se puede monitorizar los datos provenientes de diferentes fuentes, por ejemplo, bases de datos como MySQL, InfluxDB y para el proyecto CassandraDB.
+
+## Grafana en el entorno local, datos de prueba.
 
 Lo primero que debemos instalar para familiarizarnos con el entorno de Grafana es la aplicación Grafana Lab con la edición Enterprise, para los usuarios de linux-Ubuntu, seguir los siguientes pasos:
 
