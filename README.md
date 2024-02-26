@@ -1,6 +1,9 @@
 # Grafana-SPAD-IoT
 En este repositorio se da una explicacion de la conexion entre la herramienta de visualizacion Grafana y la aplicacion SPAD-IoT.
 
+## Index
+1.[Grafana en el entorno local, datos de prueba.](#Grafana en el entorno local, datos de prueba.)
+
 ## Grafana en el entorno local, datos de prueba.
 
 Grafana permite la visualización de datos métricos y es un software de versión libre con licencia de Apache 2.0. Con esta herramienta se puede monitorizar los datos provenientes de diferentes fuentes, por ejemplo, bases de datos como MySQL, InfluxDB y para el proyecto CassandraDB.
