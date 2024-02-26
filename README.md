@@ -8,19 +8,7 @@ En este repositorio se da una explicacion de la herramienta de visualizacion gra
 3. [Grafana como herramienta de visualizacion en SPAD-IoT](#Grafana-como-herramienta-de-visualizacion-en-SPAD-IoT)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Descripcion
+## Descripción
 
 Grafana permite la visualización de datos métricos y es un software de versión libre con licencia de Apache 2.0. Con esta herramienta se puede monitorizar los datos provenientes de diferentes fuentes, por ejemplo, bases de datos como MySQL, InfluxDB y para el proyecto CassandraDB.
 
