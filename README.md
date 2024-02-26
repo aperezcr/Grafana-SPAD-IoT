@@ -1,11 +1,24 @@
 # Grafana-SPAD-IoT
-En este repositorio se da una explicacion de la herramienta de visualizacion grafica Grafana, los requerimientos para su entendimiento de forma local, su conexion con la base de datos no relacional Cassandra y los pasos de conexion necesarios para conectar Grafana con la aplicacion SPAD-IoT.
+En este repositorio se da una explicacion de la herramienta de visualizacion grafica Grafana, los requerimientos para realizar pruebas de forma local, su conexion con la base de datos no relacional Cassandra y los pasos de conexion necesarios para conectar Grafana con la aplicacion SPAD-IoT.
 
 ## Index
 
 1. [Descripción](#Descripción)
 2. [Grafana en el entorno local, datos de prueba.](#Grafana-en-el-entorno-local,-datos-de-prueba.)
 3. [Grafana como herramienta de visualizacion en SPAD-IoT](#Grafana-como-herramienta-de-visualizacion-en-SPAD-IoT)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Descripcion
 
