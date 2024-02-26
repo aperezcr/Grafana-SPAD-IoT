@@ -4,7 +4,7 @@ En este repositorio se da una explicacion de la conexion entre la herramienta de
 ## Index
 
 1. [Descripción](#Descripción)
-2. [Grafana en el entorno local, datos de prueba.](#local)
+2. [Grafana en el entorno local, datos de prueba.](#Grafana_en_el_entorno_local,_datos_de_prueba.)
 3. [Descripcin](#Descripcin)
 
 ## Descripcion
