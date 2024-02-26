@@ -5,7 +5,7 @@ En este repositorio se da una explicacion de la conexion entre la herramienta de
 
 1. [Descripción](#Descripción)
 2. [Grafana en el entorno local, datos de prueba.](#Grafana_en_el_entorno_local,_datos_de_prueba.)
-3. [Descripcin](#Descripcin)
+3. [Grafana como herramienta de visualizacion en SPAD-IoT](#Grafana como herramienta de visualizacion en SPAD-IoT)
 
 ## Descripcion
 
