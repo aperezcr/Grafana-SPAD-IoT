@@ -4,7 +4,7 @@ En este repositorio se da una explicacion de la herramienta de visualizacion gra
 ## Index
 
 1. [Descripción](#Descripción)
-2. [Grafana en el entorno local con datos de prueba.](#Grafana-en-el-entorno-local-con-datos-de-prueba.)
+2. [Grafana en el entorno local con datos de prueba](#Grafana-en-el-entorno-local-con-datos-de-prueba)
 3. [Grafana como herramienta de visualizacion en SPAD-IoT](#Grafana-como-herramienta-de-visualizacion-en-SPAD-IoT)
 
 
@@ -12,7 +12,7 @@ En este repositorio se da una explicacion de la herramienta de visualizacion gra
 
 Grafana permite la visualización de datos métricos y es un software de versión libre con licencia de Apache 2.0. Con esta herramienta se puede monitorizar los datos provenientes de diferente tipo de fuentes, por ejemplo, bases de datos relacional como MySQL, InfluxDB o bases no Relacional como MongoDB. Para este proyecto se hara especial enfasis en la base de Datos Cassandra CQL.
 
-## Grafana en el entorno local con datos de prueba.
+## Grafana en el entorno local con datos de prueba
 
 Lo primero que debemos instalar para familiarizarnos con el entorno de Grafana es la aplicación Grafana Lab con la edición Enterprise, para los usuarios de linux-Ubuntu, seguir los siguientes pasos:
 
