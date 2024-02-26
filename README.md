@@ -4,7 +4,7 @@ En este repositorio se da una explicacion de la herramienta de visualizacion gra
 ## Index
 
 1. [Descripción](#Descripción)
-2. [Grafana en el entorno local, datos de prueba.](#Grafana-en-el-entorno-local,-datos-de-prueba.)
+2. [Grafana en el entorno local.](#Grafana-en-el-entorno-local,-datos-de-prueba.)
 3. [Grafana como herramienta de visualizacion en SPAD-IoT](#Grafana-como-herramienta-de-visualizacion-en-SPAD-IoT)
 
 
