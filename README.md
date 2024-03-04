@@ -113,3 +113,18 @@ Para embeber la aplicacion dentro del menu de SPAD
 `allow_embedding = true`
 
 ![Descripción de la imagen](Capturas/allow_embedding.png)
+
+### [auth.proxy]
+`enabled = true`
+`;header_name = X-WEBAUTH-USER`
+`;header_property = username`
+`auto_sign_up = true`
+`;sync_ttl = 60`
+`;whitelist = 127.0.0.1`
+`;headers = Email:X-User-Email, Name:X-User-Name`
+`# Non-ASCII strings in header values are encoded using quoted-printable encoding`
+`;headers_encoded = false`
+`# Read the auth proxy docs for details on what the setting below enables`
+`;enable_login_token = true`
+`enforce_domain = false`
+`allow_embedding = true`
