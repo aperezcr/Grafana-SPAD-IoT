@@ -102,9 +102,13 @@ La tercera configuración es la que permite ingresar desde la url de spad sin la
 
 A los cambios anteriores se deben sumar los siguientes:
 
+Para no cambiar el localhost:3000 de Grafana
+
 `enforce_domain = false `
 
 ![Descripción de la imagen](Capturas/enforced_domain.png)
+
+Para embeber la aplicacion dentro del menu de SPAD
 
 `allow_embedding = true`
 
