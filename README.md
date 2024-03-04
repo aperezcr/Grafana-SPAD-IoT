@@ -98,7 +98,7 @@ La segunda configuracion permite que la aplicacion sea visible desde el nginx de
 ### 3.Paso 3
 La tercera configuración es la que permite ingresar desde la url de spad sin la necesidad de autenticarnos en la aplicación, se debe configurar el mismo archivo anterior /etc/grafana ingresar al archivo grafana.ini
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.postimg.cc/QxYbHWDg/Captura-de-pantalla-2024-02-23-142449.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](Capturas/auth_proxy.png)
 
 A los cambios anteriores se deben sumar los siguientes:
 
