@@ -143,3 +143,5 @@ Con todos los pasos anteriores el archivo grafana.ini deberia tener las siguient
 `enforce_domain = false`
 
 `allow_embedding = true`
+
+# Para tener presente: Si se baja el contenedor, se borrara toda la configuracion que no esten en el docker-compose
