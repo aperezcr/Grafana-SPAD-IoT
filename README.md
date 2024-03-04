@@ -104,3 +104,4 @@ A los cambios anteriores se deben sumar los siguientes:
 
 `enforce_domain = false `
 
+![Descripción de la imagen](Captura de pantalla 2024-03-04 130626.png)
