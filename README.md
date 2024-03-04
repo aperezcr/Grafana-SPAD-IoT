@@ -104,4 +104,4 @@ A los cambios anteriores se deben sumar los siguientes:
 
 `enforce_domain = false `
 
-![Descripción de la imagen](allow_embedding.png)
+![Descripción de la imagen](Capturas/allow_embedding.png)
