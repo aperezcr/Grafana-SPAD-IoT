@@ -86,9 +86,9 @@ Se debe configurar el conector de Cassandra en el DataSource de Grafana.
 
 `Host: 54d91226-1193-4ef8-963e-cd02b29c5874-useast1.db.astra.datastax.com:29042`
 
-`User: fxTAPZquKNbYycaKZhDcdxTg `
+`User: bYsgtOQohRgnamBftGIZAcDD `
 
-`Password:4zpbTvjZ.6.XK+g_20wk65hItrFcDBZG3zQIN.lZU5R85UZr3JIy_cPfXkq9uc7k.Qz0Gsr_W21RdLKpwsZyPZ2P2.HI,7Eu,ZnBT75WWyvNi_wiL.T6jXdOEy-B.6SU`
+`Password: 3uFOQU-S4amR_2tmcrBzsTJD91E9PDebew.kjjuH92+a73.lJy6Zj7IZZiJxPLuxOQF42HPtfD.wX0rmFMMuy1SLOC4fXh-Pu2RRhQ_02phwFdR1O_5aAgmUbLgItPSM `
 
 ### 2. Paso 2
 La segunda configuracion permite que la aplicacion sea visible desde el nginx de SPAD, para ello se debe ingresar al docker y en la ruta /etc/grafana/ ingresar al archivo grafana.ini, dejar las siguientes lineas de código igual a la imagen:
