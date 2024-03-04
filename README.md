@@ -114,17 +114,32 @@ Para embeber la aplicacion dentro del menu de SPAD
 
 ![Descripción de la imagen](Capturas/allow_embedding.png)
 
-### [auth.proxy]
+Con todos los pasos anteriores el archivo grafana.ini deberia tener las siguientes modificaciones:
+
+### grafana.ini
+
 `enabled = true`
+
 `;header_name = X-WEBAUTH-USER`
+
 `;header_property = username`
+
 `auto_sign_up = true`
+
 `;sync_ttl = 60`
+
 `;whitelist = 127.0.0.1`
+
 `;headers = Email:X-User-Email, Name:X-User-Name`
+
 `# Non-ASCII strings in header values are encoded using quoted-printable encoding`
+
 `;headers_encoded = false`
+
 `# Read the auth proxy docs for details on what the setting below enables`
+
 `;enable_login_token = true`
+
 `enforce_domain = false`
+
 `allow_embedding = true`
