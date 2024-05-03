@@ -146,11 +146,18 @@ Con todos los pasos anteriores el archivo grafana.ini deberia tener las siguient
 
 ### Error del conector
 
+1. Si los paneles son visibles pero no hay datos en su interior, lo mas seguro es la perdida del conecto con la base de datos Cassandra. Lo primero sera navegar, dentro del escritorio remoto, a la maquina de SpadWeb en la direccion http://172.16.110.62:3001/, la cual corresponde a la herramienta de visualizacion Grafana. Dentro de la maquina, buscar la opcion "your connections" y entrar alli como se muestra en la imagen a contiuacion:
+
 ![Descripción de la imagen](Capturas/configuracion1.png)
+
+2. El siguiente paso es configurar las opciones de conexion como se muestra en la imagen a continuacion:
 
 ![Descripción de la imagen](Capturas/configuracion2.png)
 
+3. El siguiente paso es comprobar que las opciones de TLS esten correctamente configuradas, la siguiente imagen ilustra la correcta configuracion:
+
 ![Descripción de la imagen](Capturas/configuracion3.png)
+
 
 
 
