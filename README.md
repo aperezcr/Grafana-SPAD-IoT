@@ -158,17 +158,14 @@ Con todos los pasos anteriores el archivo grafana.ini deberia tener las siguient
 
 ![Descripción de la imagen](Capturas/configuracion3.png)
 
-`{
-  "clientId": "bYsgtOQohRgnamBftGIZAcDD",
-  "secret": "3uFOQU-S4amR_2tmcrBzsTJD91E9PDebew.kjjuH92+a73.lJy6Zj7IZZiJxPLuxOQF42HPtfD.wX0rmFMMuy1SLOC4fXh-Pu2RRhQ_02phwFdR1O_5aAgmUbLgItPSM",
-  "token": "AstraCS:bYsgtOQohRgnamBftGIZAcDD:232180cf2c1d74dc63ad6258b93ce8e7ea3d865dd6d8914469258327073211dc",
-  "orgId": "54684ba0-ac63-46cf-b959-67c042572840",
-  "roles": [
-    "d2cfcd63-055c-4a58-b957-8916d4a007a5"
-  ],
-  "generatedOn": "2024-02-26T16:21:27.474300908Z",
-  "__typename": "GenerateToken"
-}`
+Parametros de configuracion:
+
+` "host": "54d91226-1193-4ef8-963e-cd02b29c5874-us-east1.db.astra.datastax.com:29042"`
+
+` "clientId": "bYsgtOQohRgnamBftGIZAcDD" `
+
+` "secret": "3uFOQU-S4amR_2tmcrBzsTJD91E9PDebew.kjjuH92+a73.lJy6Zj7IZZiJxPLuxOQF42HPtfD.wX0rmFMMuy1SLOC4fXh-Pu2RRhQ_02phwFdR1O_5aAgmUbLgItPSM" `
+ 
 
 
 # Para tener presente: Si se baja el contenedor, se borrara toda la configuracion que no este en el docker-compose.
