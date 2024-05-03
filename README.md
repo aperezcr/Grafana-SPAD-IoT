@@ -146,6 +146,11 @@ Con todos los pasos anteriores el archivo grafana.ini deberia tener las siguient
 
 ### Error del conector
 
+![Descripción de la imagen](Capturas/configuracion1.png)
+
+![Descripción de la imagen](Capturas/configuracion2.png)
+
+![Descripción de la imagen](Capturas/configuracion3.png)
 
 
 
